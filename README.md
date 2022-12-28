@@ -1,12 +1,15 @@
-### Hi there 👋
+### <h2> Hi, I'm Beyza! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<!--<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">-->
+<p>Software Enginner at <a href="https://www.polyverse.life/">PolyVerse</a>
+</p>
+<p>I am currently focusing on improving my Flutter skills.</p>
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beyzailhan)](https://github.com/anuraghazra/github-readme-stats)-->
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,html,css,cs,nodejs,androidstudio,figma)](https://skillicons.dev)
 
-<!--
-**beyzailhan/beyzailhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**beyzailhan/beyzailhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+![Beyza's GitHub stats](https://github-readme-stats.vercel.app/api?username=beyzailhan&show_icons=true&theme=radical)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
