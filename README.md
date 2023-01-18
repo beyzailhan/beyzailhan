@@ -4,7 +4,7 @@
 </p>
 <p>I am currently focusing on improving my Flutter skills.</p>
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,html,css,cs,nodejs,androidstudio,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nextjs,nodejs,mongo,flutter,dart,figma)](https://skillicons.dev)
 
 <!--**beyzailhan/beyzailhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
