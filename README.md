@@ -2,7 +2,7 @@
 <!--<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">-->
 <p>Software Enginner at <a href="https://www.polyverse.life/">PolyVerse</a>
 </p>
-<p>I am currently focusing on improving my Flutter skills.</p>
+
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nextjs,nodejs,mongo,java,flutter,dart,figma)](https://skillicons.dev)
 
