@@ -4,7 +4,7 @@
 </p>
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,nextjs,nodejs,postgresql,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,javascript,typescript,nextjs,nodejs,postgresql,figma)](https://skillicons.dev)
 
 <!--**beyzailhan/beyzailhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
