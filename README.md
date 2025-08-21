@@ -2,8 +2,6 @@
 <!--<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">-->
 <p>
 Computer Engineer | Full-Stack Developer</a>
-I enjoy working across the stack — from building user interfaces to designing APIs and databases.  
-Currently refreshing my skills and adding new projects step by step.
 </p>
 
 
